@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Test-HTTP-Server
-version:            0.01
+version:            0.02
 abstract:           simple forking http server
 author:
     - Przemysław Iskra <sparky at pld-linux.org>
